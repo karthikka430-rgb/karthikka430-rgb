@@ -1,112 +1,120 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Karthik%20K%20A&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Machine%20Learning%20Enthusiast&descAlignY=58"/>
+<!-- ======================= HEADER ======================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Karthik%20K%20A&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Ideas%20into%20Code&descAlignY=58&descSize=22"/>
 
 <h1 align="center">Hi 👋, I'm Karthik K A</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+Learner;Full+Stack+Developer;Always+Learning+Something+New🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+Learner;Full+Stack+Developer;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>Passionate about building software, exploring AI, and continuously learning new technologies.</i>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Computer Science Student
 - 🌱 Currently learning **Machine Learning, Computer Vision & Full Stack Development**
-- 💻 Passionate about building real-world projects
-- 🚀 Exploring modern technologies every day
-- ⚡ Fun Fact: Every project teaches me something new.
+- 💻 Passionate about Software Development
+- 🚀 Love building real-world applications
+- 📚 Always exploring new technologies
+- ⚡ **Fun Fact:** Most of my coding sessions start with curiosity and end with learning something new.
 
 ---
-
-## 🛠️ Tech Stack
+# 🛠️ Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,git,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,git,github,vscode,androidstudio" />
 </p>
 
 ---
 
-## 📌 Featured Project
-
-### 🚜 CropWarden
-
-AI-powered Smart Agriculture Platform
-
-- 🌦 Weather Dashboard
-- 🌱 Plant Disease Detection
-- 💰 Market Price Dashboard
-- 🤖 AI Assistant
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/karthik-k-a-0a2aa632a">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/karthik-k-a-0a2aa632a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:karthikka430@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthikka430-rgb&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthikka430-rgb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikka430-rgb&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikka430-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=karthikka430-rgb&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=karthikka430-rgb&theme=tokyonight"/>
+---
+# 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikka430-rgb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karthikka430-rgb&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikka430-rgb&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/karthikka430-rgb/karthikka430-rgb/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikka430-rgb&theme=tokyo-night"/>
+> **Note:** The snake animation will start working after we set up the GitHub Action.
 
+---
+
+# 🎯 Current Goals
+
+- 🌱 Master Machine Learning
+- 👁️ Learn Computer Vision
+- 🌐 Become a Full Stack Developer
+- 🚀 Build impactful real-world projects
+- 💡 Contribute more to Open Source
+
+---
+
+# 💬 Quote
+
+<p align="center">
+  <i>"Turning Ideas into Code, One Commit at a Time."</i>
 </p>
 
 ---
 
-## 👀 Profile Views
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=karthikka430-rgb&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
 
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
