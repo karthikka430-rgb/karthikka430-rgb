@@ -1,6 +1,8 @@
 <!-- ======================= HEADER ======================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Karthik%20K%20A&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Ideas%20into%20Code&descAlignY=58&descSize=22"/>
+<p align="center">
+  <img src="banner.png" alt="Karthik K A Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Karthik K A</h1>
 
