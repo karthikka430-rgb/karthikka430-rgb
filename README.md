@@ -75,5 +75,13 @@
 
  ---
 <p align="center">
-  <img src="footer.png" width="100%" alt="Thanks for visiting my profile!" />
+  <b>
+    <span style="color:#A855F7;">⭐</span>
+    <span style="color:#C084FC;">Thanks for Visiting My Profile!</span>
+    <span style="color:#38BDF8;">⭐</span>
+  </b>
+</p>
+
+<p align="center">
+  <img src="footer.png" width="100%" alt="Galaxy Footer"/>
 </p>
