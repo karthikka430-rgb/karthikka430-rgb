@@ -74,13 +74,9 @@
 - 💡 Contribute more to Open Source
 
  ---
-<p align="center">
-  <b>
-    <span style="color:#A855F7;">⭐</span>
-    <span style="color:#C084FC;">Thanks for Visiting My Profile!</span>
-    <span style="color:#38BDF8;">⭐</span>
-  </b>
-</p>
+<h3 align="center">
+  <font color="#A855F7">⭐ Thanks for Visiting My Profile! ⭐</font>
+</h3>
 
 <p align="center">
   <img src="footer.png" width="100%" alt="Galaxy Footer"/>
