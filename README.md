@@ -36,13 +36,25 @@
 
 # 🌐 Connect With Me
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/karthik-k-a-0a2aa632a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:karthikka430@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-  </a>
+
+<a href="https://github.com/karthikka430-rgb" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/karthik-k-a-0a2aa632a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:karthikka430@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
 </p>
 
 ---
