@@ -54,12 +54,6 @@
   <img src="https://streak-stats.demolab.com?user=karthikka430-rgb&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikka430-rgb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</p>
 
 ---
 
