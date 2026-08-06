@@ -75,7 +75,7 @@
 
  ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=999999&pause=999999&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+Visiting+My+Profile!+%E2%AD%90" alt="Thanks"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=100000000&color=A855F7&center=true&vCenter=true&width=700&lines=%E2%AD%90+Thanks+for+visiting+my+profile!+%E2%AD%90" alt="Thanks"/>
 </p>
 
 <p align="center">
