@@ -7,7 +7,10 @@
 <h1 align="center">Hi 👋, I'm Karthik K A</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Turning+Ideas+into+Code;Computer+Science+Student;Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student|Machine+Learning+Enthusiast|Computer+Vision+Learner|Full+Stack+Developer|Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
