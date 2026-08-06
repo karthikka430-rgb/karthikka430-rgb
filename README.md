@@ -97,14 +97,6 @@
 
 ---
 
-# 💬 Quote
-
-<p align="center">
-  <i>"Turning Ideas into Code, One Commit at a Time."</i>
-</p>
-
----
-
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </p>
