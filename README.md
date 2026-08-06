@@ -73,9 +73,7 @@
 - 🚀 Build impactful real-world projects
 - 💡 Contribute more to Open Source
 
----
+ ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=100000000&color=A855F7&center=true&vCenter=true&width=700&lines=%E2%AD%90+Thanks+for+visiting+my+profile!+%E2%AD%90" alt="Thanks"/>
+  <img src="footer.png" width="100%" alt="Thanks for visiting my profile!" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
