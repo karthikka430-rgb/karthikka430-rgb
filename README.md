@@ -74,9 +74,9 @@
 - 💡 Contribute more to Open Source
 
  ---
-<h3 align="center">
-  <font color="#A855F7">⭐ Thanks for Visiting My Profile! ⭐</font>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=999999&pause=999999&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+Visiting+My+Profile!+%E2%AD%90" alt="Thanks"/>
+</p>
 
 <p align="center">
   <img src="footer.png" width="100%" alt="Galaxy Footer"/>
