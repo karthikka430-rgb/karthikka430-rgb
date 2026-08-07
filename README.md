@@ -47,11 +47,13 @@
 
 <p align="center">
   <a href="https://karthikka430-rgb.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
+
   &nbsp;&nbsp;
+
   <a href="https://github.com/karthikka430-rgb/karthikka430-rgb/raw/main/Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-3B82F6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-3B82F6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
