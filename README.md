@@ -52,11 +52,10 @@
 
   &nbsp;&nbsp;
 
-  <a href="https://github.com/karthikka430-rgb/karthikka430-rgb/raw/main/Resume.pdf" target="_blank">
+  <a href="https://github.com/karthikka430-rgb/karthikka430-rgb/blob/main/Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20Resume-3B82F6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
