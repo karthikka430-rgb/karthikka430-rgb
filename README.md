@@ -46,22 +46,13 @@
 # 🚀 Portfolio & Resume
 
 <p align="center">
-
-<a href="https://karthikka430-rgb.github.io/portfolio/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=htmx" height="55" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/karthikka430-rgb/karthikka430-rgb/raw/main/Resume.pdf" target="_blank">
-  <img src="https://skillicons.dev/icons?i=md" height="55" />
-</a>
-
-</p>
-
-<p align="center">
-<b>Portfolio</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Resume</b>
+  <a href="https://karthikka430-rgb.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/karthikka430-rgb/karthikka430-rgb/raw/main/Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Resume-3B82F6?style=for-the-badge" />
+  </a>
 </p>
 ---
 
