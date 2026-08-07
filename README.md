@@ -43,7 +43,23 @@
 </p>
 
 ---
+# 🚀 Portfolio & Resume
 
+<p align="center">
+
+<a href="https://karthikka430-rgb.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌌%20Portfolio-Visit%20Website-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/karthikka430-rgb/karthikka430-rgb/raw/main/Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-Download-3B82F6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
+
+</p>
+
+---
 
 # 🔥 GitHub Streak
 
